@@ -55,7 +55,7 @@
 
 .product-img {
     max-height: 100%;
-    max-width: auto;
+    width: auto;
     object-fit: cover;
     border-radius: 4px;
     margin-right: 1vw;
