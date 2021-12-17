@@ -1,0 +1,25 @@
+.cart-items {
+    display:flex;
+    flex-flow: column;
+    align-items: center;
+    max-height: inherit;
+    max-width: inherit;
+   
+}
+
+.cart {
+    padding-bottom: clamp(0.5rem, 1rem, 1rem);
+}
+
+.cart-summary {
+    display: flex;
+    flex-flow: column;
+    max-width: 30vw;
+    margin-left: 35vw;
+    align-items: center;
+}
+
+
+.summary-title {
+ font-size: 1rem;
+}

@@ -1,0 +1,49 @@
+.singleItem {
+   display: flex;
+   justify-content: center;
+   margin-top: 10rem;
+   max-height: 37rem;
+}
+
+.singleItem-image {
+    display: block;
+    height: auto;
+    width: min(37rem, 50vw);
+    margin-right: 2rem;
+    border-radius: 0.5rem;
+}
+
+.flex {
+    margin:0;
+}
+
+
+.singleItem-details {
+    display:flex;
+    flex-flow: column;
+    max-height: inherit; 
+    
+}
+
+.details-addButton {
+    display: flex;
+    align-items:flex-end;
+}
+
+.details-title {
+    font-weight: bold;
+    font-size: min(3rem, 6vw);
+    padding-bottom: 1vw;
+}
+
+.details-description {
+    font-size: min(1.5rem, 3vw);
+    margin-bottom: 2vw;
+}
+
+.details-price {
+    font-size: min(1.5rem, 3vw);
+    margin-bottom: 1vw;
+}
+
+
