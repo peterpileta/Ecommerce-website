@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Shopping-mock-web-app/static/css/main.99676df0.chunk.css",
+    "main.js": "/Shopping-mock-web-app/static/js/main.4bbdb99e.chunk.js",
+    "main.js.map": "/Shopping-mock-web-app/static/js/main.4bbdb99e.chunk.js.map",
+    "runtime-main.js": "/Shopping-mock-web-app/static/js/runtime-main.a2ad7da7.js",
+    "runtime-main.js.map": "/Shopping-mock-web-app/static/js/runtime-main.a2ad7da7.js.map",
+    "static/js/2.61aa7e6b.chunk.js": "/Shopping-mock-web-app/static/js/2.61aa7e6b.chunk.js",
+    "static/js/2.61aa7e6b.chunk.js.map": "/Shopping-mock-web-app/static/js/2.61aa7e6b.chunk.js.map",
+    "index.html": "/Shopping-mock-web-app/index.html",
+    "static/css/main.99676df0.chunk.css.map": "/Shopping-mock-web-app/static/css/main.99676df0.chunk.css.map",
+    "static/js/2.61aa7e6b.chunk.js.LICENSE.txt": "/Shopping-mock-web-app/static/js/2.61aa7e6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2ad7da7.js",
+    "static/js/2.61aa7e6b.chunk.js",
+    "static/css/main.99676df0.chunk.css",
+    "static/js/main.4bbdb99e.chunk.js"
+  ]
+}
